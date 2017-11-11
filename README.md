@@ -12,4 +12,4 @@ A really easy to use link shortner using express.
 
 **404.html**
 
-(https://raw.githubusercontent.com/jacc/simple-link-shortner/master/404.png)
+![404](https://raw.githubusercontent.com/jacc/simple-link-shortner/master/404.png)
