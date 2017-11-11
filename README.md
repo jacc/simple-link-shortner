@@ -10,6 +10,6 @@ A really easy to use link shortner using express.
 
 ### Screenshots
 
-**404.html**
+*404.html*
 
 ![404](https://raw.githubusercontent.com/jacc/simple-link-shortner/master/404.png)
